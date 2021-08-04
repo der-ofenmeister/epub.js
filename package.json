@@ -63,6 +63,6 @@
     "lodash": "^4.17.15",
     "marks-pane": "^1.0.9",
     "path-webpack": "0.0.3",
-    "xmldom": "^0.3.0"
+    "xmldom": "^0.6.0"
   }
 }
